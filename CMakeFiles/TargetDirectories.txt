@@ -1,0 +1,3 @@
+/home/tynchtyk/Desktop/ATM/CMakeFiles/rebuild_cache.dir
+/home/tynchtyk/Desktop/ATM/CMakeFiles/edit_cache.dir
+/home/tynchtyk/Desktop/ATM/CMakeFiles/main.dir
