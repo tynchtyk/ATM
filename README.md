@@ -8,4 +8,4 @@ cmake .\
 make all.\
 ./main
 
-### `You can check for ATM Interface in atm.h`
+### `You can check for ATM Interface in atm/atm.h`
